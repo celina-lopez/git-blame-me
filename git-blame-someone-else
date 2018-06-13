@@ -5,7 +5,7 @@ if [ $# -ne 2 ]; then
   exit 1
 fi
 
-AUTHOR=$1
+AUTHOR="Celina Lopez <marisa.celina.lopez4@gmail.com>"
 AUTHOR_NAME=$(echo $AUTHOR | perl -wlne '/^(.*?)\s*<.*>$/ and print $1')
 AUTHOR_EMAIL=$(echo $AUTHOR | perl -wlne '/^.*\s*<(.*)>$/ and print $1')
 COMMIT=$(git rev-parse --short $2)
