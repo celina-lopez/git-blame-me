@@ -15,6 +15,8 @@ $ sudo make install
 $ git blame-me <commit>
 ```
 quick and easy 😍
+
+
 ![ezgif-7-5609b91b2e05](https://user-images.githubusercontent.com/57647158/142361248-74b69bc7-bbe2-4b90-acdb-80fbab728736.gif)
 
 ## Disclaimer:
