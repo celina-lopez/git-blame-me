@@ -23,6 +23,4 @@ quick and easy 😍
 
 This changes not only who authored the commit but the listed commiter as well. It also is something I wrote as a joke, so please don't run this against your production repo and complain if this script deletes everything.
 
-*I didn't really approve the previous commands, i forked it.
-
 💖
