@@ -1,27 +1,26 @@
-# git-blame-someone-else
-
-> "I love git-blame-someone-else!!" -[Linus Torvalds says](https://github.com/jayphelps/git-blame-someone-else/commit/e5cfe4bb2190a2ae406d5f0b8f49c32ac0f01cd7)*
+# git-blame-me
+> "I'm a leo" -[Celina says](https://github.com/celina-lopez/git-blame-me/commit/61fb89356dfa509291fa9f175d1920cf6b25775b)*
 
 ## Install
 
 ```bash
-$ git clone https://github.com/jayphelps/git-blame-someone-else.git
-$ cd git-blame-someone-else
+$ git clone https://github.com/celina-lopez/git-blame-me.git
+$ cd git-blame-me
 $ sudo make install
 ```
 
 ## Usage
 
 ```bash
-$ git blame-someone-else <author> <commit>
+$ git blame-me <commit>
 ```
-
-![ezgif-1396449034](https://cloud.githubusercontent.com/assets/762949/12863650/068e2820-cc2e-11e5-80c5-6ebdb71f51ea.gif)
+quick and easy 😍
+![ezgif-7-5609b91b2e05](https://user-images.githubusercontent.com/57647158/142361248-74b69bc7-bbe2-4b90-acdb-80fbab728736.gif)
 
 ## Disclaimer:
 
 This changes not only who authored the commit but the listed commiter as well. It also is something I wrote as a joke, so please don't run this against your production repo and complain if this script deletes everything.
 
-*Linus Torvalds didn't really approve of this. It's a joke to prove it works. [See his fake commit here](https://github.com/jayphelps/git-blame-someone-else/commit/e5cfe4bb2190a2ae406d5f0b8f49c32ac0f01cd7)
+*I didn't really approve the previous commands, i forked it.
 
-:shipit:
+💖
